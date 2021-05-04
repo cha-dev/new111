@@ -16,7 +16,7 @@
 	<span style="font-weight: bold;">
 		
 		<br>
-		<a href="mailto:govardhan.ashwath1998@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:govardhan.ashwath1998@gmail.com">Mail to Ideyalabs</a>
 	</span>
 </div>
 <hr>
