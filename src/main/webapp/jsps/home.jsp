@@ -23,7 +23,7 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center><small>Copyrights 2019 by <a href="http://ideyalabshyderabad.com/">ideyalabs</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://Ideyalabs@Hyderabad.com/">ideyalabs</a> </small></p>
 
 </body>
 </html>
