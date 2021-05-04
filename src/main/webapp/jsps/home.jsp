@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+w<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
@@ -16,7 +16,7 @@
 	<span style="font-weight: bold;">
 		
 		<br>
-		<a href="mailto:govardhan.ashwath1998@gmail.com">Mail to Ideyalabs</a>
+		<a href="mailto:rajeshwarayya@ideyalabs.com">Mail to Ideyalabs</a>
 	</span>
 </div>
 <hr>
