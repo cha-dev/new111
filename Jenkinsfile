@@ -12,7 +12,7 @@ pipeline{
         stage('CheckoutCode')
         {
           steps{
-            git credentialsId: '97c15c62-4ecd-47e6-a9e7-c4cdd1724f5a', url: 'https://github.com/govardhantech/maven-web-application.git'
+            git credentialsId: 'ae87449e-f8b2-469c-bd91-bfaf15761db2', url: 'https://github.com/rajeshwarayya/maven-web-application.git'
         } 
         }
     
@@ -28,8 +28,7 @@ pipeline{
    stage('deploying in tomcat-server')
     {
 	  steps{
-        sshagent(['ec2-user']) {
-            
+        sshagent(['Tomcat']) {            
             sh "scp -o StrictHostKeyChecking=no target/maven-web-application*.war ec2-user@13.235.133.121:/opt/tomcat8/webapps"
            
         }
