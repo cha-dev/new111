@@ -16,14 +16,14 @@
 	<span style="font-weight: bold;">
 		
 		<br>
-		<a href="mailto:chaithra.kupalli@anz.com">Mail to Ideyalabs</a>
+		<a href="mailto:chaithra.kupalli@anz.com">Mail to ANZ</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center><small>Copyrights 2019 by <a href="anz.com/">ideyalabs</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="anz.com/">ANZ</a> </small></p>
 
 </body>
 </html>
